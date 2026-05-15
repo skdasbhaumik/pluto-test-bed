@@ -1,0 +1,8 @@
+config/env.template filter=git-crypt diff=git-crypt
+config/settings.yaml filter=git-crypt diff=git-crypt
+docs/architecture.md filter=git-crypt diff=git-crypt
+docs/internal_roadmap.md filter=git-crypt diff=git-crypt
+docs/readme.txt filter=git-crypt diff=git-crypt
+docs/security.md filter=git-crypt diff=git-crypt
+src/core.py filter=git-crypt diff=git-crypt
+src/manual_protected.py filter=git-crypt diff=git-crypt
