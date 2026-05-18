@@ -1,0 +1,5 @@
+config/db_credentials.json filter=git-crypt diff=git-crypt
+src/core.py filter=git-crypt diff=git-crypt
+src/manual_protected.py filter=git-crypt diff=git-crypt
+src/network.py filter=git-crypt diff=git-crypt
+src/proprietary_algo.py filter=git-crypt diff=git-crypt
