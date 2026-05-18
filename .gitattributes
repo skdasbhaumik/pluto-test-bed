@@ -1,0 +1,15 @@
+config/app.json filter=git-crypt diff=git-crypt
+config/db_credentials.json filter=git-crypt diff=git-crypt
+config/env.template filter=git-crypt diff=git-crypt
+docs/api.md filter=git-crypt diff=git-crypt
+docs/architecture.md filter=git-crypt diff=git-crypt
+docs/internal_roadmap.md filter=git-crypt diff=git-crypt
+docs/security.md filter=git-crypt diff=git-crypt
+src/backend.py filter=git-crypt diff=git-crypt
+src/core.py filter=git-crypt diff=git-crypt
+src/crypto_keys.py filter=git-crypt diff=git-crypt
+src/main.py filter=git-crypt diff=git-crypt
+src/manual_protected.py filter=git-crypt diff=git-crypt
+src/network.py filter=git-crypt diff=git-crypt
+src/proprietary_algo.py filter=git-crypt diff=git-crypt
+tests/test_basic.py filter=git-crypt diff=git-crypt
