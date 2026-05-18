@@ -1,5 +1,0 @@
-docs/api.md filter=git-crypt diff=git-crypt
-docs/architecture.md filter=git-crypt diff=git-crypt
-docs/internal_roadmap.md filter=git-crypt diff=git-crypt
-docs/readme.txt filter=git-crypt diff=git-crypt
-src/manual_protected.py filter=git-crypt diff=git-crypt
