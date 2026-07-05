@@ -1,0 +1,6 @@
+{
+    "db_host": "127.0.0.1",
+    "db_port": 3306,
+    "max_connections": 50,
+    "environment": "production"
+}
