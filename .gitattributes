@@ -24,3 +24,4 @@ middleware/routes/api.js filter=git-crypt diff=git-crypt
 middleware/routes/auth_routes.js filter=git-crypt diff=git-crypt
 middleware/server.js filter=git-crypt diff=git-crypt
 middleware/validator.js filter=git-crypt diff=git-crypt
+backend/services/cloud_vault.py filter=git-crypt diff=git-crypt
